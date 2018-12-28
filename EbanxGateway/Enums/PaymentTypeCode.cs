@@ -26,7 +26,8 @@ namespace EbanxGateway.Enums
         spei,
         oxxo,
         pagoefectivo,
-        safetypay,
+        safetypay_cash,   //convert to safetypay-cash
+        safetypay_online, //convert to safetypay-online
         pagosnet,
         _creditcard //debito e credito
     }

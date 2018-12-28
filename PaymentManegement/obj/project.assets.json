@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\bruno.pires\\source\\repos\\PaymentGatewayCSharp\\PaymentManegement\\PaymentManegement.csproj",
+      "projectUniqueName": "C:\\Bruno\\PaymentGatewaysCSharp\\PaymentManegement\\PaymentManegement.csproj",
       "projectName": "PaymentManegement",
-      "projectPath": "c:\\users\\bruno.pires\\source\\repos\\PaymentGatewayCSharp\\PaymentManegement\\PaymentManegement.csproj",
+      "projectPath": "C:\\Bruno\\PaymentGatewaysCSharp\\PaymentManegement\\PaymentManegement.csproj",
       "packagesPath": "C:\\Users\\bruno.pires\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\bruno.pires\\source\\repos\\PaymentGatewayCSharp\\PaymentManegement\\obj\\",
+      "outputPath": "C:\\Bruno\\PaymentGatewaysCSharp\\PaymentManegement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

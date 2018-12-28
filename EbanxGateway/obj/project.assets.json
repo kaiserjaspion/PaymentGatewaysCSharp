@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\bruno.pires\\source\\repos\\PaymentGatewayCSharp\\EbanxGateway\\EbanxGateway.csproj",
+      "projectUniqueName": "C:\\Bruno\\PaymentGatewaysCSharp\\EbanxGateway\\EbanxGateway.csproj",
       "projectName": "EbanxGateway",
-      "projectPath": "c:\\users\\bruno.pires\\source\\repos\\PaymentGatewayCSharp\\EbanxGateway\\EbanxGateway.csproj",
+      "projectPath": "C:\\Bruno\\PaymentGatewaysCSharp\\EbanxGateway\\EbanxGateway.csproj",
       "packagesPath": "C:\\Users\\bruno.pires\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\bruno.pires\\source\\repos\\PaymentGatewayCSharp\\EbanxGateway\\obj\\",
+      "outputPath": "C:\\Bruno\\PaymentGatewaysCSharp\\EbanxGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

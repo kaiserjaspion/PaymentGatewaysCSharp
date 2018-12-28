@@ -19,7 +19,12 @@ namespace EbanxGateway.Model
         public string Payment_type_code { get; set; }
         public string Merchant_payment_code { get; set; }
         public string Currency_code { get; set; }
+        public string Person_type { get; set; }
+        public string Eft_code { get; set; } // unique Eft
         public float Amount { get; set; }
         public float Amount_total { get; set; }
+        public int Instalments { get; set; }
+        public CreditCard Creditcard { get; set; }
+        public Responsible Responsible { get; set; }
     }
 }
