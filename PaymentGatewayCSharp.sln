@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentManegement", "PaymentManegement\PaymentManegement.csproj", "{65EA4C7C-4530-4822-9155-6546BA69BEC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbanxGateway", "EbanxGateway\EbanxGateway.csproj", "{E12E0539-3D18-4C67-A9E6-5FB6AD9E2A88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{D0DA5AAE-4815-457A-9D50-999BCD7287E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EA4C7C-4530-4822-9155-6546BA69BEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EA4C7C-4530-4822-9155-6546BA69BEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EA4C7C-4530-4822-9155-6546BA69BEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EA4C7C-4530-4822-9155-6546BA69BEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E12E0539-3D18-4C67-A9E6-5FB6AD9E2A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12E0539-3D18-4C67-A9E6-5FB6AD9E2A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12E0539-3D18-4C67-A9E6-5FB6AD9E2A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12E0539-3D18-4C67-A9E6-5FB6AD9E2A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E12E0539-3D18-4C67-A9E6-5FB6AD9E2A88} = {D0DA5AAE-4815-457A-9D50-999BCD7287E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C31C7752-1F6D-4F64-9908-9C16A3C93A22}
+	EndGlobalSection
+EndGlobal
