@@ -1,6 +1,6 @@
 ﻿using System;
 using EbanxGateway.Enums;
-
+using EbanxGateway.Model.Partial;
 
 namespace EbanxGateway.Model
 {
@@ -24,6 +24,7 @@ namespace EbanxGateway.Model
         public float Amount { get; set; }
         public float Amount_total { get; set; }
         public int Instalments { get; set; }
+        public string Device_id { get; set; }
         public CreditCard Creditcard { get; set; }
         public Responsible Responsible { get; set; }
     }

@@ -10,7 +10,11 @@ namespace PaymentManegement.Interfaces
     interface IGateway
     {
         string CreatePayment(PaymentCollection collection);
-        bool ExecutePaiment(string JsonPayment);
+        bool ExecutePayment(string JsonPayment);
+        string CapturePayment(string identifier);
+        string CancelPayment(string identifier);
+        string RefundPayment(string identifier, bool operation);
+        string CheckPayment(string identifier);
 
     }
 }

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentManegement", "PaymentManegement\PaymentManegement.csproj", "{65EA4C7C-4530-4822-9155-6546BA69BEC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentManegement", "PaymentManegement\PaymentManegement.csproj", "{65EA4C7C-4530-4822-9155-6546BA69BEC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbanxGateway", "EbanxGateway\EbanxGateway.csproj", "{E12E0539-3D18-4C67-A9E6-5FB6AD9E2A88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EbanxGateway", "EbanxGateway\EbanxGateway.csproj", "{E12E0539-3D18-4C67-A9E6-5FB6AD9E2A88}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{D0DA5AAE-4815-457A-9D50-999BCD7287E8}"
 EndProject

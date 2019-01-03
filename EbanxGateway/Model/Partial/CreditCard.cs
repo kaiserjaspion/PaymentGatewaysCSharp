@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EbanxGateway.Model
+namespace EbanxGateway.Model.Partial
 {
     public class CreditCard
     {
